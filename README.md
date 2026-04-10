@@ -1,0 +1,2 @@
+# Pet Pulse AI
+Pet Pulse AI, addresses the time-consuming and error-prone nature of manual health data analysis in Sri Lankan private vet services. While other tools are fragmented, my system fills the gap by integrating blood analytics and X-ray vision into one platform. Its primary contribution is providing an explainable, real-time diagnostic ecosystem where owners and vets can collaborate to catch life-threatening risks early and manage pet wellness through data-driven nutrition
